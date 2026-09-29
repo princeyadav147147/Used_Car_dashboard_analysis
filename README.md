@@ -122,22 +122,10 @@ The project analyzes used car market data including:
 - Market trend visualization
 - Customer segmentation insights
 
-## 📝 License
-
-This project is open source and available under the MIT License.
-
 ## 👨‍💼 Author
 
 **Prince Yadav**
 - GitHub: [@princeyadav147147](https://github.com/princeyadav147147)
-
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to fork this repository and submit pull requests.
-
-## 📧 Contact
-
-For questions or suggestions, please open an issue in the repository.
 
 ---
 
