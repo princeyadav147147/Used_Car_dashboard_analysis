@@ -4,7 +4,7 @@ A comprehensive data analysis and visualization project for analyzing used car m
 
 ## 📋 Project Overview
 
-This project combines data science, machine learning, and interactive dashboards to provide insights into the used automotive market. It includes predictive modeling for car valuations and an interactive Power BI dashboard for market analysis.
+This project combines data analysis, and interactive dashboards to provide insights into the used automotive market. It includes predictive modeling for car valuations and an interactive Power BI dashboard for market analysis.
 
 ## 📁 Project Structure
 
@@ -18,7 +18,7 @@ Used_Car_dashboard_analysis/
 
 ## 🎯 Key Features
 
-- **Predictive Analytics**: Machine learning models for car price prediction
+- **Data cleaning**: using python & pandas to clean data and make usefull
 - **Interactive Dashboard**: Power BI visualization for market trends
 - **Comprehensive Analysis**: Detailed automotive market insights
 - **Data-Driven Insights**: Market trends and pricing patterns
@@ -28,10 +28,7 @@ Used_Car_dashboard_analysis/
 ### `car_pridiction.ipynb`
 A Jupyter Notebook containing:
 - Data exploration and cleaning
-- Exploratory Data Analysis (EDA)
-- Feature engineering
-- Machine learning models for car price prediction
-- Model evaluation and performance metrics
+- Exploratory Data Analysis (EDA) 
 - Data visualizations
 
 ### `autos_dashboard.pbip`
@@ -46,14 +43,11 @@ A comprehensive written report including:
 - Market overview
 - Key findings and insights
 - Analysis methodology
-- Recommendations and conclusions
 
 ## 🛠️ Technologies Used
 
-- **Python**: Data analysis and machine learning
+- **Python**: Data analysis
   - pandas, numpy: Data manipulation
-  - scikit-learn: Machine learning models
-  - matplotlib, seaborn: Data visualization
   
 - **Jupyter Notebook**: Interactive data analysis environment
 
@@ -76,7 +70,7 @@ The analysis covers:
 - Python 3.7+
 - Jupyter Notebook
 - Power BI Desktop (optional, for dashboard viewing)
-- Required Python libraries: pandas, numpy, scikit-learn, matplotlib, seaborn
+- Required Python libraries: pandas, numpy,
 
 ### Installation
 
