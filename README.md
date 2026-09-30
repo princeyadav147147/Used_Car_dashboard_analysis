@@ -54,10 +54,8 @@ A comprehensive written report including:
 
 - **Python**: Data analysis
   - pandas, numpy: Data manipulation
-  - matplotlib, seaborn: Visualization
-  - scikit-learn: Predictive modeling
 
-- **Jupyter Notebook**: Interactive data analysis environment
+- **vs code**: Interactive data analysis environment
 
 - **Power BI**: Business intelligence and dashboard creation
 
