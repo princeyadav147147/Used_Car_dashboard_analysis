@@ -11,7 +11,7 @@ This project combines data analysis, and interactive dashboards to provide insig
 ```
 Used_Car_dashboard_analysis/
 ├── README.md                                          # Project documentation
-├── car_pridiction.ipynb                              # Jupyter notebook with ML models & analysis
+├── car_pridiction.ipynb                              # Jupyter notebook & analysis
 ├── autos_dashboard.pbip                              # Power BI dashboard project for used car insights
 ├── Automotive Market & Sales Analysis Report (Complete).docx  # Detailed analysis report
 ```
