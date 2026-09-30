@@ -1,52 +1,59 @@
-# Used Car Dashboard Analysis
+# Automotive Market & Sales Analysis
 
-This project analyzes used car market data to uncover pricing trends, vehicle attributes, and sales patterns. It combines Python-based data exploration with a Power BI dashboard to present insights in a clear and interactive way.
+This project analyzes the used car market to uncover pricing trends, vehicle attributes, and sales patterns across automotive listings. It combines Python-based data preprocessing and exploratory analysis with a Power BI dashboard and presentation assets to communicate business insights clearly.
 
 ## Project Overview
 
-The repository contains a dataset analysis workflow for used car listings, focused on:
+The repository contains a complete workflow for used-car market analysis, focused on:
 
-- Price trends by brand, model, and year
+- Price distribution and market value trends
+- Brand, model, and year-wise comparisons
 - Fuel type and transmission impact on pricing
-- Mileage and age influence on market value
-- Vehicle category distribution across listings
-- Dashboard-based business insight presentation
+- Mileage and age relationship with resale value
+- Category and demand patterns by vehicle type
+- Dashboard and presentation-based business storytelling
 
 ## Why This Project
 
-Used car pricing can vary significantly based on age, condition, kilometers driven, fuel type, and vehicle model. This project helps summarize those relationships and supports decision-making for buyers, sellers, and automotive analysts.
+Used car prices vary significantly depending on age, mileage, fuel type, transmission, damage status, and market demand. This project helps interpret those variations and supports better pricing decisions for buyers, dealers, and analysts.
 
 ## Tech Stack
 
 - Python
 - Pandas
 - NumPy
+- Matplotlib
+- Seaborn
 - Jupyter Notebook
 - Power BI
 - Microsoft Power BI Project File (`.pbip`)
+- Microsoft PowerPoint (`.pptx`)
+- Microsoft Word Report (`.docx`)
 
 ## Repository Structure
 
 ```text
 Used_Car_dashboard_analysis/
 ├── README.md
-├── car_pridiction.ipynb         # Data analysis and modeling notebook
-├── autos_dashboard.pbip          # Power BI project file
+├── car_pridiction.ipynb                         # Data analysis and modeling workflow
+├── autos_dashboard.pbip                         # Power BI project file
+├── Automotive_Market___Sales_Analysis (1).pptx # Presentation deck
 ├── Automotive Market and Sales Analysis Report (Updated).docx
-└── autos.csv                    # Used car dataset (if added locally)
+├── autos.csv                                    # Used car dataset (if added locally)
+└── .gitignore
 ```
 
-## Features
+## Key Deliverables
 
-- Data cleaning and preprocessing
-- Exploratory data analysis (EDA)
-- Visual insights using Power BI dashboard
-- Car market trend analysis
-- Model-ready data workflow for prediction tasks
+- Data cleaning and preprocessing workflow in Python
+- Exploratory data analysis (EDA) using notebook-based scripts
+- Interactive Power BI dashboard for market insights
+- Presentation deck summarizing findings and recommendations
+- Report document for formal project documentation
 
 ## Data Source
 
-This project uses an automotive listing dataset (`autos.csv`) containing fields such as:
+The project uses an automotive listing dataset (`autos.csv`) containing fields such as:
 
 - Brand
 - Model
@@ -82,7 +89,7 @@ Launch Jupyter Notebook and open:
 car_pridiction.ipynb
 ```
 
-### 4. Open the dashboard
+### 4. Open the dashboard and presentation
 
 Open the Power BI project file:
 
@@ -90,24 +97,31 @@ Open the Power BI project file:
 autos_dashboard.pbip
 ```
 
+Open the presentation deck:
+
+```text
+Automotive_Market___Sales_Analysis (1).pptx
+```
+
 ## How to Use
 
 1. Place the dataset file (`autos.csv`) in the project folder.
-2. Run the notebook to clean the data and analyze trends.
-3. Review the dashboard in Power BI for visual insights.
-4. Use the report as a reference for automotive market analysis and pricing decisions.
+2. Run the notebook to clean, analyze, and visualize the dataset.
+3. Review the Power BI dashboard for interactive insights.
+4. Open the presentation file to understand the business narrative and recommendations.
+5. Use the report as a supporting document for market analysis and decision-making.
 
-## Project Highlights
+## Business Insights Covered
 
-- Market analysis of used car listings
-- Brand and model comparison
-- Visualization of price distribution
-- Impact of mileage, year, and fuel type on vehicle value
-- Interactive dashboard for reporting and presentation
+- Used car pricing trends by brand and model
+- Impact of mileage and vehicle age on market value
+- Influence of fuel type and transmission on resale pricing
+- Distribution of listings across vehicle categories
+- Visual storytelling for automotive sales and market analysis
 
 ## Notes
 
-This project is intended for data analysis and dashboarding purposes. The Power BI file and notebook can be extended with additional modeling, forecasting, or deeper business insights.
+This project is intended for data analysis, business reporting, and dashboard presentation. The notebook, dashboard, and presentation can be extended with deeper forecasting, segmentation, or model-based pricing analysis.
 
 ## License
 
@@ -115,4 +129,4 @@ This project does not currently include a license file. If you plan to share or 
 
 ## Contact
 
-For questions or collaboration opportunities, feel free to reach out through the GitHub repository or project owner contact details.
+For questions, feedback, or collaboration opportunities, please reach out through the GitHub repository or the project owner.
