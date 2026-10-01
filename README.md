@@ -22,8 +22,6 @@ Used car prices vary significantly depending on age, mileage, fuel type, transmi
 - Python
 - Pandas
 - NumPy
-- Matplotlib
-- Seaborn
 - Jupyter Notebook
 - Power BI
 - Microsoft Power BI Project File (`.pbip`)
